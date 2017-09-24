@@ -1,4 +1,4 @@
-export default fun = () => {
+export default function () {
     return [
         {title: 'You dont know Js'},
         {title: 'Js the good parts'},
